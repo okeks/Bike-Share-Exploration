@@ -31,7 +31,7 @@ Nevertheless, it is recommended that more statistical tests are carried out know
 
 
 ## Key Insights for Presentation
-The histogram of Trip duration(minutes) for the three cities shows a unimodal distribution . 
+The histogram of Trip duration(minutes) for the three cities shows a unimodal distribution.
 
 Trip Duration versus the Period of the day, a box plot was chosen, it was observed that early afternoon(between 12pm - 3pm) has the largest interquartile range and max value, than the rest of the day for the three Cities, This means that the duration at this time varies more than other periods. While late evenings(Between 8pm- 12 midnight) duration having lowest median for the three cities.
 
