@@ -36,7 +36,7 @@ The histogram of Trip duration(minutes) for the three cities shows a unimodal di
 Trip Duration versus the Period of the day, a box plot was chosen, it was observed that early afternoon(between 12pm - 3pm) has the largest interquartile range and max value, than the rest of the day for the three Cities, This means that the duration at this time varies more than other periods. While late evenings(Between 8pm- 12 midnight) duration having lowest median for the three cities.
 
 Trip Duration versus Day of week For All Cities
-From the Box plots, it can be seen that Weekends(Saturday and Sunday) have the largest interquartile range for Trip duration, this means that duration varies more on weekends than on weekdays across the 3 cities.
+From the Box plots, it can be seen that Weekends(Saturday and Sunday) have the largest interquartile range for Trip duration, this means that duration varies more on weekends than on weekdays across the 3 cities (more spread out).
 
 User-Type proportion in Gender For San Francisco and New York
 From the Clustered Bar Chart It can be observed that the ratio of customers to subscribers for both male and female groups in San Francisco is higher than that for New York.
