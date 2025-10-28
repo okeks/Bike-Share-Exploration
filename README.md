@@ -5,7 +5,7 @@
 ## Dataset
 We'll work with 3 datasets, 1 for each city. The dataset contains infomation on: where Bikeshare riders go, when they ride, how far they go, which stations are most popular, what days of the week are most rides taken on,Gender and Age of ride Bikesharers. 
 
-The df_sf containing Bikeshare data for San Franciso Greater Bay Area contains 183412 observations with 16 variables, this is the primary dataset, the other datasets like the New York City dataset which contains 943744 observations and 15 variables and the Washington DC Metro area dataset which contains 158130 observations and 9 variables will be compared alone side when necessary.
+The df_sf containing Bikeshare data for San Franciso Greater Bay Area contains 183412 observations with 16 variables, this is the primary dataset, the other datasets like the New York City dataset which contains 943744 observations and 15 variables and the Washington DC Metro area dataset which contains 158130 observations and 9 variables will be compared alone side when necessary. 
 
 
 
@@ -16,7 +16,7 @@ For Univariate:
 - Age Distribution is Unimodal for San Franciso and Bimodal for New York.
 -For Gender distribution between San Franciso and New York, while the Male percentages were almost the same (74.6% and 74.7% respectively) , we saw that the Female proportion recorded for San Franciso (23.3%) was higher than that recorded for New York (21.6%). The unknown gender category for New York was 3.85% higher than that of San Franciso (2.1%).
 -Distribution of UserType across the 3 cities, NYC recorded the highest subscriber to customer ratio, followed by DC and then SF.
-- For Day and Period Traffic, we saw that Thursday was the busiest day of the week of the 3 cities, also early evening(bewteen 5pm - 8pm) was the busiest period of the day.
+- For Day and Period Traffic, we saw that Thursday was the busiest day of the week of the 3 cities, also early evening (bewteen 5pm - 8pm) was the busiest period of the day.
 
 For Bivariate:
 -For Trip duration versus age, No much information was observed from the scatter plot.
